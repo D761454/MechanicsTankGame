@@ -1,8 +1,3 @@
 Have Event Triggered SEC for right click
 
 add diff laser sights
-
-bomb launcher weapon
-can have secondary homing fire
-
-smg - random homing missile mid fire - need to fix
